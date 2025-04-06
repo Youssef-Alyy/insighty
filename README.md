@@ -1,6 +1,6 @@
 # Insighty: AI-Powered Insights for Qatar's Development
 
-[![Insighty Demo](https://qucloud-my.sharepoint.com/:v:/g/personal/ya21555_qu_edu_qa/EZpDN8_-fRpKiNaZA04wrTYBA_B7BCj6p6FbXrOSzhbInA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zK3Z9I)
+[Insighty Demo](https://qucloud-my.sharepoint.com/:v:/g/personal/ya21555_qu_edu_qa/EZpDN8_-fRpKiNaZA04wrTYBA_B7BCj6p6FbXrOSzhbInA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zK3Z9I)
 
 ## Project Overview
 
