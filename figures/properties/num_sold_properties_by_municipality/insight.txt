@@ -1,0 +1,1 @@
+This line chart visualizes the trends in the total number of sold properties in Qatar over time, segmented by different municipalities. It highlights fluctuations in the real estate market from 2018 to 2024, revealing peaks and drops that may be influenced by economic conditions, policy changes, or seasonal trends.

@@ -1,0 +1,16 @@
+Summary:
+
+This summary explores trends in marriage rates in Qatar from 2018 to 2023, segmented by nationality and gender. The data highlights key patterns and disruptions, providing insights into how external factors, such as the COVID-19 pandemic, impacted marriage trends.
+
+Analytics insight:  
+
+1. Descriptive Analytics: The number of Qatari marriages consistently remained higher than non-Qatari marriages. A notable decline in early 2020 was followed by a sharp rebound.  
+
+2. Diagnostic Analytics: The steep drop in early 2020 coincides with COVID-19 restrictions, likely due to lockdowns, social distancing measures, and economic uncertainties. The subsequent surge suggests a backlog effect.  
+
+3. Predictive Analytics: If current trends persist, marriage numbers may stabilize, with fluctuations depending on economic conditions, social norms, and immigration policies.  
+
+4. Prescriptive Analytics: Policymakers could introduce marriage incentives or ease restrictions on residency for non-Qataris to support long-term demographic growth. Economic incentives could encourage stable marriage rates.  
+
+5. Cognitive Analytics: AI-driven demographic models could forecast marriage trends, helping policymakers design social programs and predict the impact of policy changes on marriage rates.  
+

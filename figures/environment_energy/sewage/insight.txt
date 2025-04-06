@@ -1,0 +1,1 @@
+This dual-axis line chart visualizes wastewater received and wastewater after treatment in Qatar from 2018 to 2024. The dark blue line represents the average wastewater received at treatment plants, while the light orange line indicates the average treated wastewater, both measured in thousand cubic meters.

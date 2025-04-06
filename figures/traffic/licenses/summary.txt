@@ -1,0 +1,21 @@
+Summary:
+
+The graph presents the trends in newly issued driving licenses in Qatar over time, categorized into total licenses, Qatari citizens, and non-Qatari residents. The data exhibits significant fluctuations, with noticeable drops and peaks at various points. The trends indicate seasonal or policy-driven changes impacting the issuance of licenses.
+
+Analytics Insights:
+
+1. Descriptive Analytics: 
+   The data reveals fluctuations in the number of new driving licenses issued over time. There are periodic spikes and drops, likely due to external factors such as policy changes, demand shifts, or seasonal variations.
+
+2. Diagnostic Analytics:
+   The fluctuations could be attributed to regulatory changes, economic conditions, and shifts in population demographics. For example, sharp declines may indicate stricter licensing requirements, while increases could correspond with population growth or eased restrictions.
+
+3. Predictive Analytics:  
+   If past trends continue, future issuance rates could follow similar cyclical patterns. Forecasting models might predict potential increases during economic booms or after policy relaxations, while economic downturns or policy tightening may lead to declines.
+
+4.Prescriptive Analytics 
+   To stabilize issuance rates, policymakers could analyze periods of decline and introduce initiatives such as improved training programs or streamlined licensing processes. Adjusting regulations based on demand trends could optimize licensing procedures.
+
+5. Cognitive Analytics:
+   AI can uncover hidden patterns in licensing trends by analyzing correlations with economic indicators, demographic changes, and road safety policies. Machine learning models could provide insights into optimizing licensing processes and predicting future trends with greater accuracy.
+

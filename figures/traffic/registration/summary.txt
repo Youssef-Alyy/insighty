@@ -1,0 +1,20 @@
+ Summary:
+ 
+The graph displays the trends of newly registered vehicles over time, categorized into different types, including private vehicles, trailers, public transport, taxis, motorcycles, and heavy equipment. The total number of registered vehicles exhibits periodic fluctuations, with noticeable peaks and dips. Notably, there is a significant decline around early 2020, likely linked to external disruptions, followed by a recovery trend.
+
+Analytics Insights:  
+
+1. Descriptive Analytics:
+The data shows an overall increasing trend in total registered vehicles, with private vehicles being the most dominant category. There are visible seasonal fluctuations and sharp declines, particularly in early 2020 and early 2023.  
+
+2. Diagnostic Analytics:  
+The decline in early 2020 aligns with the onset of the COVID-19 pandemic, which likely affected vehicle registrations due to economic slowdowns and mobility restrictions. Spikes in registrations may correspond to economic recoveries, policy changes, or seasonal effects.  
+
+3. Predictive Analytics: 
+If the current trend continues, the number of registered vehicles is expected to grow, with private vehicle ownership leading. However, potential disruptions such as policy changes, fuel price variations, or global economic shifts could impact growth rates.  
+
+4. Prescriptive Analytics: 
+To maintain a steady rise in vehicle registrations, authorities could incentivize sustainable vehicle options, introduce tax benefits, or improve financing options. Monitoring external factors such as economic trends and infrastructure development could help in forecasting and managing vehicle registrations efficiently.  
+
+5. Cognitive Analytics: 
+AI can help predict future vehicle registration trends by analyzing historical patterns and external factors such as economic growth, fuel prices, and government policies. Additionally, AI-driven insights can assist in optimizing public transport policies and urban planning based on demand forecasts.  

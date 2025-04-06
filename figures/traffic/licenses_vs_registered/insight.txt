@@ -1,0 +1,1 @@
+This radar chart visualizes the relationship between newly issued driving licenses and registered vehicles over time. It highlights fluctuations, trends, and potential correlations between the two datasets from 2018 to 2023.

@@ -1,0 +1,14 @@
+Summary:
+This summary provides an analytical breakdown of the live birth trends in Qatar from 2018 to 2024, segmented by nationality and gender. It highlights key patterns, anomalies, and potential influencing factors such as economic conditions and policy shifts. The insights can help policymakers and researchers understand demographic changes and future trends.
+
+Analytics insight:
+
+1. Descriptive Analytics: Non-Qatari females had the highest birth rates, with a general upward trend. Qatari males and females had relatively stable birth rates. A significant drop was observed around 2020, followed by a gradual recovery.  
+
+2. Diagnostic Analytics: The sharp decline in 2020 aligns with the COVID-19 pandemic, possibly due to restrictions, economic uncertainty, or healthcare access issues. The increasing trend after 2021 suggests stabilization and population growth.  
+
+3. Predictive Analytics: If current trends continue, live births in non-Qatari groups may keep increasing, while Qatari birth rates may remain stable. Future trends could be affected by policy changes, healthcare improvements, and economic conditions.  
+
+4. Prescriptive Analytics: Authorities may consider policies to encourage birth rates among Qatari citizens through incentives and support programs. Healthcare planning should account for the increasing birth rates, ensuring adequate maternity and neonatal care facilities.
+  
+5. Cognitive Analytics: AI-driven demographic models could predict future birth trends and assist in resource allocation. Machine learning can analyze birth patterns to optimize healthcare services and policy planning.

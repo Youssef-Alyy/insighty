@@ -1,0 +1,18 @@
+Summary:
+
+The graph presents real estate price trends in Qatar from 2020 to 2024, highlighting the sum price per square foot and the total real estate value. The data shows a peak in 2021, followed by a continuous decline through 2024, indicating a downward market trend that may be influenced by economic conditions, regulatory changes, or shifts in demand.  
+
+1. Descriptive Analytics:  
+   The sum price per square foot and total real estate value peaked in 2021 before experiencing a steady decline.  
+
+2. Diagnostic Analytics:  
+   The 2021 peak could indicate a period of high demand, possibly driven by economic growth or investment surges, while the subsequent decline may reflect market corrections, oversupply, or economic slowdowns.  
+
+3. Predictive Analytics:  
+   If the trend continues, real estate prices and values may keep decreasing unless external factors, such as economic recovery or policy incentives, stimulate the market.  
+
+4. Prescriptive Analytics:  
+   To stabilize the market, policymakers and investors could introduce measures such as foreign investment incentives, mortgage rate adjustments, or infrastructure projects to boost demand.  
+
+5. Cognitive Analytics:  
+   AI-driven models could analyze correlations between real estate prices and economic indicators, helping predict future market movements and optimize investment strategies.  

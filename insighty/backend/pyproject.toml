@@ -1,0 +1,15 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "azure-ai-inference>=1.0.0b9",
+    "azure-core>=1.32.0",
+    "fastapi[standard]>=0.115.8",
+    "loguru>=0.7.3",
+    "openai>=1.63.2",
+    "ruff>=0.9.6",
+    "sqlmodel>=0.0.22",
+]

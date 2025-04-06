@@ -1,0 +1,15 @@
+Summary:  
+
+This summary analyzes the trends in Qatar’s population distribution across different age groups from 2018 to 2024. The data highlights key patterns, shifts, and external influences that shape demographic changes. Understanding these trends can support policymakers in planning for future social and economic needs.
+
+Analytics insight:  
+
+1. Descriptive Analytics: The 25-64 age group consistently had the largest population share, while the 65+ category showed a steady increase. The population under 15 and between 15-24 exhibited seasonal variations.  
+
+2. Diagnostic Analytics: The drop in early 2020 aligns with the COVID-19 pandemic, potentially due to travel restrictions, employment shifts, or demographic movements. Recovery trends indicate normalization.  
+
+3. Predictive Analytics: If current trends persist, the working-age population (25-64) will remain dominant, while the elderly population (65+) will continue increasing. Future shifts may depend on economic policies and migration trends.  
+
+4. Prescriptive Analytics: Authorities may consider policies to sustain workforce numbers, such as incentives for skilled migration. Healthcare infrastructure should prepare for an aging population, ensuring adequate elderly care services.  
+
+5. Cognitive Analytics: AI-driven models could predict age group trends, optimizing policies on healthcare, education, and workforce planning. Machine learning can provide deeper insights into population growth and societal needs.  

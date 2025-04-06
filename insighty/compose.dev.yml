@@ -1,0 +1,43 @@
+services:
+  api:
+    restart: on-failure:5
+    ports:
+      - 8080:8080
+    build:
+      context: backend
+      dockerfile: Dockerfile
+      target: development
+    environment:
+      - ENV=dev
+      - SQLITE_PATH=${SQLITE_PATH?}
+      - AZURE_OPENAI_API_KEY=${AZURE_OPENAI_API_KEY?}
+      - AZURE_OPENAI_ENDPOINT=${AZURE_OPENAI_ENDPOINT?}
+      - AZURE_OPENAI_DEPLOYMENT_NAME=${AZURE_OPENAI_DEPLOYMENT_NAME?}
+    networks:
+      - insighty
+    volumes:
+      - ./db:/data
+      - ./backend/seed:/src/seed
+    # develop:
+    #   watch:
+    #     - path: ./backend
+    #       action: sync
+    #       target: /src
+    #       ignore:
+    #         - Dockerfile
+    #         - compose.*
+    #         - __pycache__
+  
+  web:
+    build:
+      context: frontend
+      target: development
+    networks:
+      - insighty
+    environment:
+      NODE_ENV: development
+    ports:
+      - 3000:3000
+
+networks:
+  insighty:

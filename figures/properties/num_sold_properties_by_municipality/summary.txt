@@ -1,0 +1,27 @@
+Summary:
+The graph presents the trends in the total number of sold properties in Qatar from 2018 to 2024, with data segmented by various municipalities, including Doha, Al Rayyan, Al Wakra, and others. The overall trend exhibits noticeable fluctuations, with periods of sharp increases and decreases in property transactions. This variation suggests potential influences from economic factors, government policies, or seasonal demand shifts.
+
+Analytics Insights:
+
+1. Descriptive Analytics:
+The data showcases significant fluctuations in property sales, with major spikes at certain points in time. Doha and Al Rayyan appear to have consistently higher sales, while other municipalities exhibit relatively lower transaction volumes.
+
+2. Diagnostic Analytics:
+Variations in property sales could be attributed to factors such as policy changes, economic shifts, or real estate investment trends. For instance, periods of rapid increase may align with relaxed property ownership policies or economic growth, while declines may result from stricter regulations or economic downturns.
+
+3. Predictive Analytics:
+If historical trends persist, future sales will likely continue to follow cyclical patterns. During periods of economic growth or favorable real estate policies, property transactions may increase, whereas restrictive policies or economic slowdowns could lead to declines.
+
+4. Prescriptive Analytics:
+To maintain a stable real estate market, policymakers and investors could analyze past fluctuations and introduce measures such as tax incentives, streamlined property acquisition processes, or foreign investment-friendly policies.
+
+5. Cognitive Analytics:
+AI and machine learning models could help uncover hidden patterns in property transactions by analyzing correlations with economic indicators, demographic shifts, and policy changes. These insights could enable more effective decision-making for both investors and policymakers in Qatar’s real estate sector.
+
+
+
+
+
+
+
+

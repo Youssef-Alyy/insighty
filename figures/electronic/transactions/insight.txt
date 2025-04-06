@@ -1,0 +1,1 @@
+This line chart visualizes the trends in total transactions processed through Qatar’s e-Government Hukoomi portal over time. It highlights fluctuations, peaks, and drops in online governmental transactions from 2018 to 2023, reflecting potential impacts of digital adoption, policy changes, and external factors.

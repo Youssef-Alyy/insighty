@@ -1,0 +1,21 @@
+Summary:
+
+The graph presents trends in total new driving licenses, total traffic violations, and driving license violations over time in Qatar. The data reveals fluctuations in these metrics across different years, indicating variations influenced by regulatory policies, enforcement measures, and external factors such as population growth and economic conditions.
+
+Analytics Insights:
+
+1. Descriptive Analytics:
+The data shows changes in the issuance of new driving licenses and the number of violations. Some periods have noticeable increases in total licenses, while others show spikes in violations, reflecting shifts in enforcement or driving behavior.
+
+2. Diagnostic Analytics:
+Potential reasons for the fluctuations include changes in driving regulations, stricter or more lenient enforcement policies, demographic shifts, and infrastructure developments. Increased violations may correlate with more drivers on the road or changes in road safety measures.
+
+3. Predictive Analytics:
+If historical patterns hold, future trends may reflect similar cycles. A rise in new licenses could lead to a proportional increase in violations unless enforcement or road safety measures are adjusted. Predictive models could estimate violation rates based on past data and forecast policy impacts.
+
+4. Prescriptive Analytics:
+To optimize traffic safety and reduce violations, authorities could focus on enhanced driver education, stricter penalties for repeat offenders, and improved traffic monitoring. Periodic policy adjustments can help maintain a balance between issuing licenses and ensuring road safety.
+
+5. Cognitive Analytics:
+AI-driven analysis could reveal deeper correlations between license issuance and violations by examining economic indicators, enforcement levels, and accident rates. Machine learning models could predict high-risk periods and suggest interventions to improve overall road safety.
+

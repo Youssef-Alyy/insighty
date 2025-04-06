@@ -1,0 +1,22 @@
+version: '3'
+
+tasks:
+  prod:
+    desc: Start production services
+    cmds:
+      - docker compose -f compose.yml up --build -d --remove-orphans --force-recreate
+      - task: logs
+
+  dev:
+    desc: Start development services
+    cmds:
+      - docker compose --env-file ./.env.dev -f compose.dev.yml up --build --remove-orphans --watch
+      - task: logs
+
+  stop:
+    desc: Stop services
+    cmd: docker compose down
+
+  logs:
+    desc: Show docker logs
+    cmd: docker compose logs -f

@@ -1,0 +1,19 @@
+Summary: 
+The radar chart illustrates expenditure trends in Qatar from 2018 to 2023 across five key sectors: Transport, Communication, Education, Health, and Housing. The data highlights fluctuating spending levels in each sector over the years, reflecting changes in government budgets, policy shifts, or economic factors. Some sectors, such as Housing and Transport, show consistent expenditures, while others, such as Communication and Health, exhibit more volatility.  
+
+Analytics Insights:  
+
+1. Descriptive Analytics:  
+   The data reveals that spending in Transport and Housing has been relatively stable, whereas Communication and Health have seen significant fluctuations. Education spending remains moderate but shows variations over time.  
+
+2. Diagnostic Analytics: 
+   The peaks and dips in expenditures could be attributed to changes in national budget allocations, economic conditions, or sector-specific events, such as infrastructure projects in Transport or healthcare investments during the pandemic period.  
+
+3. Predictive Analytics: 
+   If current trends persist, expenditure in stable sectors like Housing and Transport will likely maintain a steady trajectory, while Communication and Health may continue to experience variability due to technological advancements and public health priorities.  
+
+4. Prescriptive Analytics:  
+   Policymakers could stabilize spending fluctuations by allocating consistent budgets for essential services while ensuring strategic investments in high-impact sectors like Communication and Health. Infrastructure improvements in Transport and Housing could benefit from sustained funding to support long-term growth.  
+
+5. Cognitive Analytics:
+   AI-driven analysis could further identify correlations between expenditure trends and external factors such as GDP growth, population shifts, or economic crises. This would enhance data-driven decision-making for optimizing resource allocation in Qatar's key sectors.
